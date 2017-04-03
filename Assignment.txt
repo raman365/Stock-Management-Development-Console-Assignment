@@ -1,0 +1,3 @@
+Stock Management Development Console Assignment
+
+http://student30338.bucomputing.uk/console/
